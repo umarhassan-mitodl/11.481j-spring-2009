@@ -28,7 +28,7 @@ Miller, Ronald, and Peter Blair. _Input-Output Analysis: Foundations and Extensi
 
 Richardson, Harry. _Regional Economics_. Urbana, IL: University of Illinois Press, 1979. ISBN: 9780252007484.
 
-U.S. Department of Labor, Bureau of Labor Statistics. [_BLS Handbook of Methods_](http://www.bls.gov/opub/hom/). Washington, DC: U.S. Government Printing Office.
+U.S. Department of Labor, Bureau of Labor Statistics. {{% resource_link "1eb8c5e5-5c32-4b44-afb9-cdeb908251e1" "_BLS Handbook of Methods_" %}}. Washington, DC: U.S. Government Printing Office.
 
 Readings by Session
 -------------------
@@ -125,7 +125,7 @@ DeBresson, Chris, and Fernand Amesse. "Networks of Innovators: A Review and Intr
 
 Duranton, Gilles, and Diego Puga. "Diversity and Specialization in Cities: Why, Where and When Does It Matter?" In _Industrial Location Economics_. Edited by Philip McCann. Northampton, MA: Edward Elgar, 2004, pp. 151-186. ISBN: 9781843768470.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611350) Krugman, Paul. [_Development, Geography, and Economic Theory_](https://mitpress.mit.edu/9780262611350). Cambridge, MA: MIT Press, 1997, pp. 31-59. ISBN: 9780262611350.
+{{% resource_link "dda9f1b4-ca44-4983-bf9f-7b15bd920176" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. {{% resource_link "dda9f1b4-ca44-4983-bf9f-7b15bd920176" "_Development, Geography, and Economic Theory_" %}}. Cambridge, MA: MIT Press, 1997, pp. 31-59. ISBN: 9780262611350.
 
 Norton, R. D., and J. Rees. "The Product Cycle and the Spatial Decentralization of American Manufacturing." _Regional Studies_ 13, no. 2 (1979): 141-151.
 
@@ -189,9 +189,9 @@ Harris, John, and Michael Todaro. "Migration, Unemployment, and Development: A T
 
 Clark, Gordon. _Interregional Migration, National Policy, and Social Justice_. Totowa, NJ: Rowman & Littlefield, 1983, pp. 77-102. ISBN: 9780865981249.
 
-Florida, Richard. "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51. ([PDF - 1.2MB](http://www.theatlantic.com/images/issues/200510/world-is-spiky.pdf))
+Florida, Richard. "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51. ({{% resource_link "adaad382-cda4-4ab4-a301-65fb36fb813a" "PDF - 1.2MB" %}})
 
-Florida, Richard, and Jim Goodnight. "[Managing for Creativity](https://hbr.org/product/managing-for-creativity/R0507L-PDF-ENG)." _Harvard Business Review_, July-August 2005.
+Florida, Richard, and Jim Goodnight. "{{% resource_link "c350b080-075d-40d8-a213-ce2a1428e09a" "Managing for Creativity" %}}." _Harvard Business Review_, July-August 2005.
 
 Markusen, Ann, and Katherine Nesse. "Institutional and Political Determinants of Incentive Competition." In _Reining in the Competition for Capital_. Edited by Ann R. Markusen. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research, 2007, pp. 1-53. ISBN: 9780880992954.
 
@@ -429,7 +429,7 @@ Imputations and underground economy
 {{< tdopen >}}
 
 
-Loayza, Norman. "[The Economics of the Informal Sector: A Simple Model and Some Empirical Evidence from Latin America](http://ideas.repec.org/p/wbk/wbrwps/1727.html)." Policy Research Working Paper Series 1727, The World Bank, 1997.
+Loayza, Norman. "{{% resource_link "340fa1ce-61b7-4c35-940e-6255c9202b69" "The Economics of the Informal Sector: A Simple Model and Some Empirical Evidence from Latin America" %}}." Policy Research Working Paper Series 1727, The World Bank, 1997.
 
 Kendrick, John. "Expanded Imputed Values in the National Income and Product Accounts." _Review of Income and Wealth_ 25, no. 4 (1979): 349-363.
 
@@ -449,7 +449,7 @@ Price indices
 
 Wonnacott, Thomas, and Ronald Wonnacott. _Introductory Statistics for Business and Economics_. 4th ed. New York, NY: Wiley, 1990, pp. 664-677. ISBN: 9780471527169.
 
-U.S. Department of Labor, Bureau of Labor Statistics. "Consumer Price Index." Chapter 17 in _BLS Handbook of Methods_. Washington, DC: U.S. Government Printing Office, 2007. ([PDF](http://www.bls.gov/opub/hom/pdf/homch17.pdf))
+U.S. Department of Labor, Bureau of Labor Statistics. "Consumer Price Index." Chapter 17 in _BLS Handbook of Methods_. Washington, DC: U.S. Government Printing Office, 2007. ({{% resource_link "638f134f-3396-4b9f-9258-46ed4e89313f" "PDF" %}})
 
 Wynne, Mark, and Fiona Sigalla. "The Consumer Price Index." _Economic Review: Federal Reserve Board of Dallas_, Summer 1994, 1-22.
 
@@ -495,7 +495,7 @@ Determinants of city and regional growth
 
 Glaeser, Edward, José A. Sheinkman, and Andrei Shleifer. "Economic Growth in a Cross-Section of Cities." _Journal of Monetary Economics_ 36 (1995): 117-144.
 
-da Mata, Daniel, U. Deichmann, J. Vernon Henderson, Somik Lall, and H. G. Wang. "[Determinants of City Growth in Brazil](http://www.nber.org/papers/w11585)." NBER Working Paper No. 11585, August 2005.
+da Mata, Daniel, U. Deichmann, J. Vernon Henderson, Somik Lall, and H. G. Wang. "{{% resource_link "e722cf8d-0d2d-47f6-99e4-f1c1882b6057" "Determinants of City Growth in Brazil" %}}." NBER Working Paper No. 11585, August 2005.
 
 
 {{< tdclose >}}
