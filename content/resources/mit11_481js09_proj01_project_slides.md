@@ -5,6 +5,8 @@ description: Example of student work for a final project on economic revitalizat
 file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/01f8261cdc3209eb50b8a3617ec1908c_MIT11_481Js09_proj01_project_slides.pdf
 file_size: 653813
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

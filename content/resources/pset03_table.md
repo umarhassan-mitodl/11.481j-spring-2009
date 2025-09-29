@@ -4,6 +4,8 @@ description: Data file for a problem set on analyzing interregional input-output
 file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/1c747ba4a177286d1d1e520d1bf778d3_pset03_table.xls
 file_size: 13312
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
