@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes selected examples of pro/con presentations and
   the final project (associated with problem set 5).
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

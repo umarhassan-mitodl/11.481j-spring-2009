@@ -4,8 +4,6 @@ description: Instructions for a team presentation project.
 file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/8ebc474e7208b95fc1346f981f52a2dc_MIT11_481Js09_sw_info.pdf
 file_size: 26397
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

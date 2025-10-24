@@ -5,8 +5,6 @@ description: Example of student work for a group project on challenges, assets, 
 file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/5ceb8cc52b35bb931277d6cd25e4f06b_MIT11_481Js09_proj02_project_paper.pdf
 file_size: 1525138
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
